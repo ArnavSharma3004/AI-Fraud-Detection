@@ -21,6 +21,8 @@ A complete ML pipeline that:
 - Serves real-time fraud predictions via Flask API
 - Deployed publicly using ngrok
 
+Video link: https://www.loom.com/share/10179453b9be4c4b9044c521a3ab1c09
+
 ## 🛠️ Tech Stack
 - **Language:** Python 3.9+
 - **ML Library:** Scikit-learn
@@ -82,8 +84,6 @@ AI-Fraud-Detection/
 - **Team ID:** SmartBridge-AI-01
 - **Project:** Insurance Fraud Detection Using Machine Learning
 - **Platform:** SmartBridge / IBM SkillsBuild
-
-Video link: https://www.loom.com/share/10179453b9be4c4b9044c521a3ab1c09
 
 ## 📄 License
 This project is for educational purposes under the 
