@@ -83,6 +83,8 @@ AI-Fraud-Detection/
 - **Project:** Insurance Fraud Detection Using Machine Learning
 - **Platform:** SmartBridge / IBM SkillsBuild
 
+Video link: https://www.loom.com/share/10179453b9be4c4b9044c521a3ab1c09
+
 ## 📄 License
 This project is for educational purposes under the 
 SmartBridge AI internship program.
